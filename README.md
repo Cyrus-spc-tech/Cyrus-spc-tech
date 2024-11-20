@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me You can connect with me  via LinkedIn at www.linkedin.com/in/tanish-gupta-8b3325277.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I learn everything like programming language 
+- ⚡ Fun fact: I am willing to learn everything like programming language 
 
 
 <!---
