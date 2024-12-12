@@ -49,13 +49,13 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/cyrus-spc-tech/cyrus-spc-tech/output/snake.svg" alt="Snake animation" />
+<img src=".github/workflows/snake.yml" alt="Snake animation" />
 ###
 
 <img align="left" src="https://profile-counter.glitch.me/cyrus-spc-tech/count.svg?"  />
 
 ###
-
+<br>
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nic2nwir7gvb7do3dab4eaqq5u&count=1" alt="Spotify recently played"  />
 </div>
