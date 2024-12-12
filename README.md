@@ -1,4 +1,8 @@
-<h2 align="center">Hi 👋, I'm Tanish Gupta<br> I'm a college student passionate about Artificial Intelligence and Data Science. I have a foundation in web development, Python programming, and Database Management Systems (DBMS).tend developer from India</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ Tanish Gupta!;" />
+</h1><br>
+<hr>
+  <h2>I'm a college student passionate about Artificial Intelligence and Data Science. I have a foundation in web development, Python programming, and Database Management Systems (DBMS).tend developer from India</h2>
 
 ###
 
