@@ -50,8 +50,6 @@
 
 ###
 
-<img src=".github/workflows/ Generate Snake" alt="Snake animation" />
-
 ###
 
 <img align="left" src="https://profile-counter.glitch.me/cyrus-spc-tech/count.svg?"  />
@@ -59,16 +57,12 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nic2nwir7gvb7do3dab4eaqq5u" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nic2nwir7gvb7do3dab4eaqq5u&count=1" alt="Spotify recently played"  />
 </div>
 
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&theme=radical&username=@tanishgupta12389" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
