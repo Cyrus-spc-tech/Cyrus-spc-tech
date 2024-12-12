@@ -48,17 +48,15 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
-###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-###
+
 
 <img align="left" src="https://profile-counter.glitch.me/cyrus-spc-tech/count.svg?"  />
-
-###
 <br>
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nic2nwir7gvb7do3dab4eaqq5u&count=1" alt="Spotify recently played"  />
