@@ -46,7 +46,7 @@
 
 ###
 
-<img src="snake.ylm" alt="Snake animation" />
+<img src=".github/workflows/ Generate Snake" alt="Snake animation" />
 
 ###
 
