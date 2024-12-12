@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=875EFFDF&width=4000&lines=Hi+There+!+!;I'm+Tanish+Gupta+!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=875EFFDF&width=300&lines=Hi+There+!+!;I'm+Tanish+Gupta+!" alt="Typing SVG" /></a>
 </h1>
 
   <h2>I'm a college student passionate about Artificial Intelligence and Data Science. I have a foundation in web development, Python programming, and Database Management Systems (DBMS).tend developer from India</h2>
