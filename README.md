@@ -49,7 +49,7 @@
 </div>
 
 ###
-
+<img src="https://raw.githubusercontent.com/cyrus-spc-tech/cyrus-spc-tech/output/snake.svg" alt="Snake animation" />
 ###
 
 <img align="left" src="https://profile-counter.glitch.me/cyrus-spc-tech/count.svg?"  />
