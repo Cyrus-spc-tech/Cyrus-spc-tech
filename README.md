@@ -6,7 +6,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -58,7 +58,7 @@
 
 <img align="left" src="https://profile-counter.glitch.me/cyrus-spc-tech/count.svg?"  />
 <br>
-<div align="center">
+<div align="right">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nic2nwir7gvb7do3dab4eaqq5u&count=1" alt="Spotify recently played"  />
 </div>
 
