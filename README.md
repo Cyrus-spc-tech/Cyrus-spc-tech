@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/cyrus-spc-tech/cyrus-spc-tech/output/snake.ylm" alt="Snake animation" />
+<img src="snake.ylm" alt="Snake animation" />
 
 ###
 
