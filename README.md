@@ -1,11 +1,10 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Aoboshi+One&size=21&duration=2000&pause=1000&color=A051FF&width=435&lines=Hi+There+!;I'm+Tanish+Gupta+" alt="Typing SVG" /></a><br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Aoboshi+One&size=21&duration=2000&pause=1000&color=A051FF&width=435&lines=%22+In+The+Zone+!+No+Distraction+%22" alt="Typing SVG" /></a>
 </h1>
 
   <h2>I'm a college student passionate about Artificial Intelligence and Data Science. I have a foundation in web development, Python programming, and Database Management Systems (DBMS).tend developer from India</h2>
 
 ###
-<div align="left">
+<div align="center">
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
   </a>
@@ -57,7 +56,9 @@
 
 
 ###
-
+<div  align="center">
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Aoboshi+One&size=21&duration=2000&pause=1000&color=A051FF&width=435&lines=%22+In+The+Zone+!+No+Distraction+%22" alt="Typing SVG" /></a>
+</div>
 <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGYwYTJxanRrbTJjd3JocWtxcXE3N3Jwd3g5NnZsMnN6a3dlNjBwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExlTPcZqobpseyY/giphy.webp"  />
 
 ###
@@ -81,10 +82,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+<br>
 
 
 <img align="left" src="https://profile-counter.glitch.me/cyrus-spc-tech/count.svg?"  />
-<br>
 <div align="right">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nic2nwir7gvb7do3dab4eaqq5u&count=1" alt="Spotify recently played"  />
 </div>
