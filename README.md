@@ -1,5 +1,4 @@
-<h1 align="center">
-    <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=875EFFDF&width=400&lines=Hi+There+!+!;I'm+Tanish+Gupta+!" alt="Typing SVG" /></a><br>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Aoboshi+One&size=21&duration=2000&pause=1000&color=A051FF&width=435&lines=Hi+There+!;I'm+Tanish+Gupta+" alt="Typing SVG" /></a><br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Aoboshi+One&size=21&duration=2000&pause=1000&color=A051FF&width=435&lines=%22+In+The+Zone+!+No+Distraction+%22" alt="Typing SVG" /></a>
 </h1>
 
