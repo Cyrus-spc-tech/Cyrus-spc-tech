@@ -76,12 +76,16 @@
   <a href="https://medius.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medius&logo=medius&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medius logo" />
   </a>
-   <a href="https://dev.to/yourusername" target="_blank">
+   <a href="https://dev.to/cyrusspctech" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dev.to logo" />
-    
+   </a>
+    <a href="https://www.hackerrank.com/profile/cyrus_spec_tech" target="_blank">
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+    </a>
+  <a href="https://codepen.io/Tanish-Gupta-the-reactor">
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
 
