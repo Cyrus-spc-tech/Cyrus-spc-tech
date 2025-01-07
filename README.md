@@ -70,6 +70,14 @@
     <a href="https://dev.to/cyrusspctech" target="_blank">
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
     </a>
+     <a href="https://replit.com/@TanishGupta20" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Replit&logo=replit&label=&color=yellow&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="replit logo" />
+  </a>
+  <a href="https://medius.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medius&logo=medius&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medius logo" />
+  </a>
+   <a href="https://dev.to/yourusername" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dev.to logo" />
     
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
