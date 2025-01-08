@@ -4,7 +4,7 @@
   <h2>I'm a college student passionate about Artificial Intelligence and Data Science. I have a foundation in web development, Python programming, and Database Management Systems (DBMS).tend developer from India</h2>
 
 ###
-<div align="center">
+<div align="center" backgroung-color="red">
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
   </a>
