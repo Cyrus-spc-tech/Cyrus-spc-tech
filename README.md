@@ -119,8 +119,5 @@
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
 
  <br> 
- [![An image of @cyrusspctech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyrusspctech)](https://holopin.io/@cyrusspctech)
-
-
 
 ###
