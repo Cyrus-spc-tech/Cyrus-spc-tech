@@ -114,9 +114,12 @@
   <img src="https://github-profile-trophy.vercel.app?username=cyrus-spc-tech&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyrus-spc-tech&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-<div align="center">
- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<br>
 
-</div>
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
+
+ <br> 
+
+
 
 ###
