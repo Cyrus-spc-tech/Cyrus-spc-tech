@@ -107,10 +107,6 @@
 
 
 <img align="left" src="https://profile-counter.glitch.me/cyrus-spc-tech/count.svg?"  />
-<div align="right">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nic2nwir7gvb7do3dab4eaqq5u&count=1" alt="Spotify recently played"  />
-</div>
-
 ###
 
 <br clear="both">
