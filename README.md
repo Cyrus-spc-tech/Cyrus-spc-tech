@@ -5,6 +5,7 @@
 
  - college student passionate about Artificial Intelligence and Data Science
  - I have a foundation in web development, Python programming, and Database Management Systems (DBMS).
+ - Currently Working on Python Library 
  - Developer from India</h2><br><br>
  
     <a align-item="center" href="https://tanish-gupta.netlify.app/">Portfolio !!</a>
