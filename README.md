@@ -1,10 +1,10 @@
 # Hi There I'm Tanish Gupta !! 👋
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Aoboshi+One&size=21&duration=2000&pause=1000&color=A051FF&width=435&lines=In+the+Zone+No+Distraction!!" alt="Typing SVG" />
   </a>
-</p>
+</p> -->
 
 ---
 
