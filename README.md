@@ -21,7 +21,7 @@ I'm **Tanish Gupta**, a **college student** passionate about **Artificial Intell
 
 ## 🚀 Current Projects
 
-- 🔧 Currently working on **Python Library** development
+- 🔧 Currently working on ** Agentic AI Project ( Pal AI )** development .
 - 💡 Exploring Agenti AI, LLM , NN and The Data Science Technologies .
 
 ---
