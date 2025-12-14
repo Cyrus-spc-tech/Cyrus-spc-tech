@@ -10,21 +10,25 @@
 
 ## 👨‍💻 About Me
 
-I'm **Tanish Gupta**, a **college student** passionate about **Artificial Intelligence and Data Science**. I have a strong foundation in:
+I'm  a **college student** passionate about **Artificial Intelligence and Data Science**. I have a strong foundation in:
 
-- 🌐 **Web Development**
+
 - 🐍 **Python Programming**
+- 🌐 **Web Development**
 - 🗄️ **Database Management Systems (DBMS)**
-- 📍 **Developer from India**
+- 📊 **Data Analysis**
+
 
 ---
 
 
 ## 🚀 Current Progress . . .
 
-- 🔧 Currently working on ** Agentic AI Project ( Pal AI )** development .
-- 💡 Exploring Agenti AI, LLM , NN and The Data Science Technologies .
+- 🔧 Currently working on ** Agentic AI Project ( Pal AI ) ** development .
+- 💡 Exploring Edge AI , Agenti AI, LLM , NN and The Data Science Technologies .
 - 📖 Learning ML --> DL modules .
+- 😵 Interested in Game Development and interactive systems Curious about AI-driven games and simulations
+
 
 ---
 
